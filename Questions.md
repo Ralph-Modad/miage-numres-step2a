@@ -9,19 +9,19 @@ Réponse: La méthode qui liste les propositions d'une question renvoie une list
 Réponse:La méthode qui évalue des réponses renvoie un objet EvaluationResult. Cette méthode est définie dans la classe QuizzResource et utilise le service QuizzService pour effectuer l'évaluation.
 
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
-Réponse:
+Réponse: 2292 KB
 
-# Q5: Quel est le temps et la taille de la réponse  de la méthode qui liste les questions
-Temps:
-Taille:
+# Q5: Quel est le temps et la taille de la réponse de la méthode qui liste les questions
+Temps: 19.369078s
+Taille: 883 bytes
 
-# Q6: Quel est le temps et la taille de la réponse  de la méthode qui liste les propositions d'une question
-Temps:
-Taille:
+# Q6: Quel est le temps et la taille de la réponse de la méthode qui liste les propositions d'une question
+Temps: 10.749787s
+Taille: 609 bytes
 
-# Q7: Quel est le temps et la taille de la réponse  de la méthode qui évalue les réponses
-Temps:
-Taille:
+# Q7: Quel est le temps et la taille de la réponse de la méthode qui évalue les réponses
+Temps: 0.010419s
+Taille: 1 byte
 
 # Q8 : Empreinte mémoire en mode natif ?
 Réponse:
