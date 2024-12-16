@@ -1,11 +1,12 @@
 # Q1 : Décrire ce que renvoie la méthode qui liste les questions ?
 Réponse:
+La méthode qui liste les questions renvoie une liste de questions.
 
 # Q2 : Décrire ce que renvoie la méthode qui liste les propositions d'une question ?
-Réponse:
+Réponse: La méthode qui liste les propositions d'une question renvoie une liste d'objets ProposalDto. Cette méthode est définie dans la classe QuizzResource et utilise le service QuizzService pour obtenir les données.
 
 # Q3 : Décrire ce que renvoie la méthode qui évalue des réponses ?
-Réponse:
+Réponse:La méthode qui évalue des réponses renvoie un objet EvaluationResult. Cette méthode est définie dans la classe QuizzResource et utilise le service QuizzService pour effectuer l'évaluation.
 
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
 Réponse:
